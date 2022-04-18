@@ -5,18 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          THE UC BERKELEY EECS DEPARTMENT HATES BATS
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          They also probably hate sharks and bugs and the color green. 
+        </p>
+        <a href="https://www.linkedin.com/in/jonathwang/" class="button"><button class="pixel">Click here to learn more</button></a>
       </header>
     </div>
   );
